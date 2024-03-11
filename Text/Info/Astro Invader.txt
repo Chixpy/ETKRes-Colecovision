@@ -1,0 +1,3 @@
+The Astro Invaders are attacking! You must use your laser base to defend the Earth. Beware of the incoming invaders and their impact explosions. Destroy the flying saucers before they land or they will steal your women!
+
+This is a conversion of the Stern coin-op game. As invaders come out of the mother ship, they are stored in columns until that column is full, then the aliens in the full column descend one-by-one and attack. Every so often, the hovering flying saucer descends. You move along the bottom, left or right, and must shoot the invaders.

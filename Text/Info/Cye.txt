@@ -1,0 +1,3 @@
+Cye is a puzzle game, mostly a clone of Kye, similar to Boulder Dash, with elements of Sokoban, Crystal Mines and Pac-Man. The goal is to collect all the on-screen diamonds to clear each level. To do so, the player must traverse the maze-like screen, moving rocks and avoiding enemies in order to accomplish this goal. The game contains 28 levels of play, including a two-player, co-op mode.
+
+Only 52 cartridges were produced. The developer kept two for himself and sold the remaining ones to attendees of the Classic Gaming Expo 2007.

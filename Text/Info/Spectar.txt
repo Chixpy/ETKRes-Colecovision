@@ -1,0 +1,3 @@
+You are the Wummel in the city of the Spectars. Your fight for justice is not done.
+
+This is a conversion of a coin-op game that is a sequel to the coin-op game Targ, you must drive your battle cruiser around a grid. Drive over any twinkling stars you can and shoot any of the enemy cruisers you come across. A level ends when you have shot all the enemies or collected all the stars.
